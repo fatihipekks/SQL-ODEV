@@ -1,0 +1,1 @@
+TEKRAR ÇALIŞTIRMAK İSTERSENİZ=System Databases>master>Tables>dbo'lu tabloları silin>master refresh>tekrar çalıştırın.
