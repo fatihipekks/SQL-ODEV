@@ -1,2 +1,1 @@
 # SQL-ODEV
-Astronaut SQL
